@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fifth
+=======
+some changes in feature branch
+>>>>>>> feature1
