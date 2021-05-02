@@ -3,3 +3,4 @@ Fifth
 =======
 some changes in feature branch
 >>>>>>> feature1
+file was edited directily from github
